@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Tye 👋
 
-<!--
-**tyeryann/tyeryann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Technical Program Manager** · Tacoma, WA · she/her
 
-Here are some ideas to get you started:
+I build the operating rhythms that let cross-functional teams ship. 14+ years turning ambiguous stakeholder needs into executable plans — including 7 years driving global launches and tentpole campaigns for Xbox.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently a Project Manager for Xbox Digital Marketing, and open to what's next
+- ⚙️ I automate the repetitive parts of program work: n8n workflows, custom tooling, AI-assisted delivery
+- 💬 Ask me about launch readiness, dependency mapping, or timezone math across 45 markets
+
+📫 [LinkedIn](https://linkedin.com/in/tyeryann) · [Portfolio](https://tye-johnson.carrd.co)
+
+### 🛠️ What I'm building
+
+A version-controlled job-search pipeline in n8n: listing scoring, tailored application materials, full orchestration from a spreadsheet. The machines do the paperwork; I make the decisions.
