@@ -13,3 +13,15 @@ I build the operating rhythms that let cross-functional teams ship. 14+ years tu
 ### 🛠️ What I'm building
 
 A version-controlled job-search pipeline in n8n: listing scoring, tailored application materials, full orchestration from a spreadsheet. The machines do the paperwork; I make the decisions.
+
+**The Gatekeeper** — scores listings across six categories (skills, seniority, responsibilities, education, domain, logistics) into high-match and runner-up queues. Hard gates: remote-only, $165K salary floor. Nothing auto-applies — every application is a human decision.
+
+![The Gatekeeper workflow](PASTE-GATEKEEPER-IMAGE-URL-HERE)
+
+**The Tailor** — takes a job posting and rewrites my résumé and cover letter in its language, under a strict fact-lock: rephrase what's true, never invent.
+
+![The Tailor workflow](PASTE-TAILOR-IMAGE-URL-HERE)
+
+**The Green Light** — the orchestrator. Watches my leads spreadsheet on a 15-minute poll; the moment I check "Apply?", it fires the Tailor and writes the finished document links back to the sheet.
+
+![The Green Light workflow](PASTE-GREEN-LIGHT-IMAGE-URL-HERE)
