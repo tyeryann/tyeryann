@@ -8,7 +8,7 @@ I build the operating rhythms that let cross-functional teams ship. 14+ years tu
 - ⚙️ I automate the repetitive parts of program work: n8n workflows, custom tooling, AI-assisted delivery
 - 💬 Ask me about launch readiness, dependency mapping, or timezone math across 45 markets
 
-📫 [LinkedIn](https://linkedin.com/in/tyeryann) · [Portfolio](https://tye-johnson.carrd.co)
+📫 [LinkedIn](https://linkedin.com/in/tyeryann) · [Portfolio](https://tye-johnson.carrd.co/?utm_source=github&utm_medium=profile&utm_campaign=readme)
 
 ### 🛠️ What I'm building
 
