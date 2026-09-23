@@ -16,12 +16,14 @@ A version-controlled job-search pipeline in n8n: listing scoring, tailored appli
 
 **The Gatekeeper** — scores listings across six categories (skills, seniority, responsibilities, education, domain, logistics) into high-match and runner-up queues. Hard gates: remote-only, $165K salary floor. Nothing auto-applies — every application is a human decision.
 
-![The Gatekeeper workflow](PASTE-GATEKEEPER-IMAGE-URL-HERE)
+![The Gatekeeper workflow](<img width="1749" height="671" alt="Screenshot 2026-09-23 162856" src="https://github.com/user-attachments/assets/28300c2e-e219-449c-9ec5-b9104c869d29" />)
 
 **The Tailor** — takes a job posting and rewrites my résumé and cover letter in its language, under a strict fact-lock: rephrase what's true, never invent.
 
-![The Tailor workflow](PASTE-TAILOR-IMAGE-URL-HERE)
+![The Tailor workflow](<img width="1617" height="558" alt="Screenshot 2026-09-23 162939" src="https://github.com/user-attachments/assets/1c41171d-e9c7-4430-a6ad-04ff01eae9ac" />
+)
 
 **The Green Light** — the orchestrator. Watches my leads spreadsheet on a 15-minute poll; the moment I check "Apply?", it fires the Tailor and writes the finished document links back to the sheet.
 
-![The Green Light workflow](PASTE-GREEN-LIGHT-IMAGE-URL-HERE)
+![The Green Light workflow](<img width="945" height="550" alt="Screenshot 2026-09-23 163005" src="https://github.com/user-attachments/assets/e9bdc332-2736-4bea-91ae-5999d0f48077" />
+)
