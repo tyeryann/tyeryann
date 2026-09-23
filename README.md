@@ -1,6 +1,6 @@
 # Hi, I'm Tye 👋
 
-**Technical Program Manager** · Tacoma, WA · she/her
+**Technical Program Manager** · Tacoma, WA
 
 I build the operating rhythms that let cross-functional teams ship. 14+ years turning ambiguous stakeholder needs into executable plans - including 7 years driving global launches and tentpole campaigns for Xbox.
 
