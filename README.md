@@ -26,13 +26,13 @@ content (even from JavaScript-heavy pages), and scores it across six weighted ca
 with hard gates on salary floor and location. Unreadable input scores a 0, never a
 hallucination.
 
-![Rejection Quest Assistant workflow](images/rejection-quest-assistant.png)
+![Rejection Quest Assistant workflow](docs/rejection-quest-assistant.png)
 
 **The Tailor** (n8n webhook) - on approval only, generates tailored documents from a
 source profile under a strict fact-lock: rephrase what's true, never invent. Finished
 docs land as editable Google Docs; links go back to the log.
 
-![Rejection Quest Tailor workflow](images/rejection-quest-tailor.png)
+![Rejection Quest Tailor workflow](docs/rejection-quest-tailor.png)
 
 **Human-in-the-loop, always** - nothing is generated or sent without explicit approval.
 The machines do the paperwork; I make the decisions.
