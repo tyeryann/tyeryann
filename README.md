@@ -1,26 +1,18 @@
-# GitHub Profile README - Pipeline Section Refresh (2026-10-15)
+## Hi, I'm Tye 👋
 
-Copy-paste replacement for the "What I'm building" section at github.com/tyeryann,
-plus the portfolio link fix. Hyphens only, no em-dashes.
+**Technical Program Manager** · Tacoma, WA
 
----
+I build the operating rhythms that let cross-functional teams ship. 14+ years turning ambiguous stakeholder needs into executable plans - including 7 years
+driving global launches and tentpole campaigns for Xbox.
 
-## 1. Portfolio link fix (line 15)
+- 🔭 Currently a Project Manager for Xbox Digital Marketing, and open to what's next
 
-Replace:
-```
-📫 [LinkedIn](...) · [Portfolio](https://tye-johnson.carrd.co)
-```
-With:
-```
-📫 [LinkedIn](...) · [Portfolio](https://www.tyejohnson.dev/)
-```
+- ⚙️ I automate the repetitive parts of program work: n8n workflows, custom tooling, AI-assisted delivery
 
----
+- 💬 Ask me about launch readiness, dependency mapping, or timezone math across 45 markets
 
-## 2. "What I'm building" section - full replacement
+📫 [LinkedIn](YOUR-LINKEDIN-URL) · [Portfolio](https://www.tyejohnson.dev/)
 
-```markdown
 ### 🛠️ What I'm building
 
 **Rejection Quest HQ** - a Lovable command center wired to two n8n webhooks: one that
@@ -34,40 +26,13 @@ content (even from JavaScript-heavy pages), and scores it across six weighted ca
 with hard gates on salary floor and location. Unreadable input scores a 0, never a
 hallucination.
 
-[Image: Rejection Quest Assistant workflow]
+![Rejection Quest Assistant workflow](images/rejection-quest-assistant.png)
 
 **The Tailor** (n8n webhook) - on approval only, generates tailored documents from a
 source profile under a strict fact-lock: rephrase what's true, never invent. Finished
 docs land as editable Google Docs; links go back to the log.
 
-[Image: Rejection Quest Tailor workflow]
+![Rejection Quest Tailor workflow](images/rejection-quest-tailor.png)
 
 **Human-in-the-loop, always** - nothing is generated or sent without explicit approval.
 The machines do the paperwork; I make the decisions.
-```
-
----
-
-## 3. Screenshot swap
-
-The old section embeds three workflow canvas images (Gatekeeper, Tailor, Green Light).
-Replace with the two new canvases:
-
-- `docs/rejection-quest-assistant.png` (currently in the private turbo-umbrella repo)
-- `docs/rejection-quest-tailor.png` (same)
-
-Upload both to the tyeryann/tyeryann profile repo (e.g. an `images/` folder) and point
-the markdown image links at them. The Green Light image gets dropped entirely -
-that workflow is retired.
-
----
-
-## What changed and why
-
-- Old story: three n8n workflows (Gatekeeper scorer, Tailor, Green Light orchestrator)
-  plus spreadsheet orchestration.
-- New story: Lovable app (Rejection Quest HQ) as the command center, two n8n webhooks
-  (Assistant = score-from-URL, Tailor = generate-docs-on-approval), Google Sheet as
-  append-only audit log. Green Light retired Oct 2026.
-- Thesis line kept ("The machines do the paperwork; I make the decisions") - it's the
-  through-line of the whole project.
